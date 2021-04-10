@@ -1,10 +1,10 @@
 # Linux_shortcut_maker
-This is a script based on Python3 for Linux to create a shotcut in launcher
+This is a script based on Python3 for Linux to create a shortcut in launcher
 ## Profile
 
-I have writen a blog about how to create a shotcut in Deepin Linux. The way to creat a .desktop file was introduced by me in that blog article named "Desktop File Learning". Then I design a script that is based on Python3 to create the .desktop quickly and  conveniently, we can save the step to move the .desktop to the right directory.
+I have writen a blog about how to create a shortcut in Deepin Linux. The way to create a .desktop file was introduced by me in that blog article named "Desktop File Learning". Then I design a script that is based on Python3 to create the .desktop quickly and  conveniently, we can save the step to move the .desktop to the right directory.
 
-I can use this script to create the shotcut in launcher more quickly.I test this in Ubuntu and Deepin Linux
+I can use this script to create the shortcut in launcher more quickly. I test this in Ubuntu and Deepin Linux
 
 ## How to use it
 
@@ -12,7 +12,7 @@ Firstly, you need to configure a Python3 environment.
 
 Then, run the script via root user.
 
-For example: `python3 deepin-shotcut-maker.py`(root user) or  `sudo python3 deepin-shotcut-maker.py`
+For example: `python3 linux-shotcut-maker.py`(root user) or  `sudo python3 linux-shotcut-maker.py`
 
 ## Screenshot
 
