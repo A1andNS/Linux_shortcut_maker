@@ -1,3 +1,4 @@
+[README_CN](README_CN.md)
 # Linux_shortcut_maker
 This is a script based on Python3 for Linux to create a shortcut in launcher
 ## Profile
